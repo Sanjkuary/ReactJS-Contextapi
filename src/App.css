@@ -1,0 +1,23 @@
+.header {
+  background-color: rgb(10, 10, 78);
+  color:white;
+  border: 10px;
+  text-align: center;
+}
+.compa {
+  background-color: aqua;
+  padding: 5px;
+  margin: 8px;
+}
+.compb {
+  background-color: black;
+  color: white;
+  padding: 5px;
+  margin: 8px;
+}
+.compc {
+  background-color: pink;
+  color: black;
+  padding: 5px;
+  margin: 8px;
+}
